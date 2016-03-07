@@ -1,0 +1,21 @@
+{
+  "name": "web starter kit",
+  "version": "0.8.0",
+  "authors": [
+    "Nikola Myslovskij@adriandecita>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "devDependencies": {
+    "normalize-css": "normalize.css#~3.0.3",
+    "sass-mq": "~3.2.4",
+    "vanilla-lazyload": "~1.5.7"
+  },
+  "dependencies": {
+    "jquery": "^2.2.1"
+  }
+}
