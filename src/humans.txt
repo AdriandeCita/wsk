@@ -1,0 +1,16 @@
+# TEAM
+    Yaroslaw Korovianko
+    Nikola Myslovskij
+
+# ORGANIZATION
+
+# THANKS
+    Igor [Enkil] Timohin <tia@net-simple.ru>
+
+# SITE
+	Language: Russian
+	Doctype: HTML5
+	Standards: HTML5, CSS3
+	Components: Sass, Pug(Jade), JavaScript, Apache Server Configs, Normalize.css
+	IDE: Sublime Text, Vim
+    Software: Gulp, Git, Photoshop, Illustrator
