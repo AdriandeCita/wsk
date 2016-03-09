@@ -1,6 +1,6 @@
 {
   "name": "web-starter-kit",
-  "version": "0.1.0",
+  "version": "0.8.0",
   "description": "",
   "main": "gulpfile.js",
   "dependencies": {
@@ -42,6 +42,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Red4x Team (http://red4x.com)",
+  "repository" :
+  { "type" : "git",
+    "url" : "https://gitlab.com/red4x/web_starter_kit.git"
+  }
   "license": "ISC"
 }
