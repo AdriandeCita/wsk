@@ -31,7 +31,7 @@
     "gulp-util": "^3.0.6",
     "gulp.spritesmith": "^4.1.1",
     "imagemin-pngquant": "^4.2.0",
-    "imagemin-jpegoptim": "^3.0.0",
+    "imagemin-jpegoptim": "^4.0.0",
     "jsdoc": "^3.3.3",
     "jshint-stylish": "^2.0.1",
     "main-bower-files": "^2.9.0",
