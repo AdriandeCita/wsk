@@ -24,7 +24,6 @@
   $file-path: "fonts/" + $font-group + "/" + $font-style + "/" + $file-name;
   @font-face {
     font-family: $font-family;
-    src: url('#{$file-path}.eot'),local('☺');
     src: url('#{$file-path}.eot?#iefix') format('embedded-opentype'),local('☺'),
     url('#{$file-path}.woff') format('woff'),
     url('#{$file-path}.ttf') format('truetype'),

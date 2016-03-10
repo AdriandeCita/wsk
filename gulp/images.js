@@ -18,12 +18,12 @@ gulp.task('images', function () {
             this.emit('end');
         }))
         .pipe(newer(config.pathTo.Build.Images))
-        .pipe(imagemin({
-           progressive: true,
-           optimizationLevel: 7,
-           use: [pngquant(),jpegoptim({max: 61})],
-           interlaced: true
-        }))
+        // .pipe(imagemin({
+        //    progressive: true,
+        //    optimizationLevel: 7,
+        //    use: [pngquant(),jpegoptim({max: 61})],
+        //    interlaced: true
+        // }))
         .pipe(gulp.dest(config.pathTo.Build.Images))
         .pipe(reload({stream: true}));
 });
